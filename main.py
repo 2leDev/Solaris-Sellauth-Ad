@@ -17,7 +17,7 @@ target = input("Do you want to send the messages to (1) Only General, (2) Only A
 headers = {
     "accept": "application/json, text/plain, */*",
     "accept-language": "en-US,en;q=0.9",
-    "authorization": "Bearer 7767|xPaPwmzs5qr4pRirDJzTpq68NgSUWYQdaHRAQpwN2524f806",
+    "authorization": "Bearer no",
     "content-type": "application/json",
     "origin": "https://beta.sellauth.com",
     "priority": "u=1, i",
